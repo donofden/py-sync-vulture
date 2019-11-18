@@ -1,10 +1,7 @@
-<img src="py-sync-vulture.png" style="display:center" width="300" height="300" />
-
-[![License](https://img.shields.io/github/license/donofden/py-sync-vulture.svg)](https://opensource.org/licenses/MIT)
-
-[![HitCount](http://hits.dwyl.io/donofden/py-sync-vulture.svg)](http://hits.dwyl.io/donofden/py-sync-vulture)
-
 ## Py-Sync-Vulture
+<img src="py-sync-vulture-small.png" style="display:center" width="300" height="300" />
+
+[![License](https://img.shields.io/github/license/donofden/py-sync-vulture.svg)](https://opensource.org/licenses/MIT) [![HitCount](http://hits.dwyl.io/donofden/py-sync-vulture.svg)](http://hits.dwyl.io/donofden/py-sync-vulture)
 
 The python script to synchronize files between local to another location in same machine.
 
