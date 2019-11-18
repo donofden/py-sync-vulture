@@ -1,7 +1,8 @@
-# py-sync-vulture
-A python script for syncing two folders in a machine.
+<img src="py-sync-vulture.png" style="display:center" width="300" height="300" />
 
-![Py-Sync-Vulture](py-sync-vulture.png)
+[![License](https://img.shields.io/github/license/donofden/py-sync-vulture.svg)](https://opensource.org/licenses/MIT)
+
+[![HitCount](http://hits.dwyl.io/donofden/py-sync-vulture.svg)](http://hits.dwyl.io/donofden/py-sync-vulture)
 
 ## Py-Sync-Vulture
 
